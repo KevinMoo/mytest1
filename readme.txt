@@ -8,3 +8,5 @@ Notepad++ v6.9 New feature and bug-fixes:
 6.  Add new API NPPM_SAVEFILE (for plugins) to save any file, not only the focused one.
 7.  Add file extensions for FreePascal/Lazarus pascal, lex (as C).
 8.  Update keywords for C, C++, JavaScript, Python and YAML.
+
+Included plugins:
