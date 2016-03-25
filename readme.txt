@@ -10,3 +10,8 @@ Notepad++ v6.9 New feature and bug-fixes:
 8.  Update keywords for C, C++, JavaScript, Python and YAML.
 
 Included plugins:
+
+1.  NppExport v0.2.8
+2.  Plugin Manager 1.3.5
+3.  Converter 3.0
+4.  Mime Tool 1.9
