@@ -1,0 +1,24 @@
+git 命令说明
+
+1、初始化git repository 建立仓库
+cd 工作目录
+git init
+
+2、向仓库接交文件（这里每次修改都重复的步骤）
+git add 文件名                      //每次修改，如果不add到暂存区，那就不会加入到commit中
+如果这时修改文件，（暂叫：第二次修改）
+git commit -m "版本说明"
+
+第二次修改的并没有提交到仓库，所以git commit 只提交 git add 当时放到暂存区的内容，如果在git add 之后再修改文件，并不能提交。
+
+3、查看本地修改与仓库文件不同
+git diff 文件名
+
+
+4、查看本地文件状态
+git status
+
+如发现更改：重复第二步git add ,git commit提交更改
+
+5、查看log日志
+git log
