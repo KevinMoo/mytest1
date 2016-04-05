@@ -7,7 +7,8 @@ Notepad++ v6.9 New feature and bug-fixes:
 5.  Make behavior of SHIFT+END and SHIFT+HOME more consistent when word wrapping is enabled.
 6.  Add new API NPPM_SAVEFILE (for plugins) to save any file, not only the focused one.
 7.  Add file extensions for FreePascal/Lazarus pascal, lex (as C).
-8.  Updateaabc keywords for C, C++, JavaScript, Python and YAML.
+8.  editttttttttttttttt keywords for C, C++, JavaScript, Python and YAML.
+
 
 Included plugins:
 
@@ -16,4 +17,7 @@ Included plugins:
 3.  Converter 3.0
 4.  Mime Tool 1.9
 
+
 9、撤销对暂存区的更改：
+
+
